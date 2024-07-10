@@ -1,0 +1,57 @@
+System Requirements:
+- Python
+- Swi - Prolog
+- git
+
+- Your device must also have the paths for each of the files. If you are using Windows, this can be checked by pressing the windows key and r at the same time. Type in "sysdm.cpl", press Ok, Advanced,  Environment Variables. Under System Variables, select PATH and Edit. You can see all the paths of your device there.
+
+Instructions:
+- The program may be ran in cmd by cd path of where the file is then python MCO2.py
+
+- STRICTLY use the following format for stating your facts or queries:
+	- Fact prompts:
+		- <sibling 1> and <sibling 2> are siblings.
+		- <brother> is a brother of <sibling>.
+		- <sister> is a sister of <sibling>.
+		- <father> is the father of <child>.
+		- <mother> is the mother of <child>.
+		- <parent 1> and <parent 2> are the parents of <child>.
+		- <grandma> is a grandmother of <grandchild>.
+		- <grandpa> is a grandfather of <grandchild>.
+		- <child> is a child of <parent>.
+		- <child 1>, <child 2> and <child 3> are children of <parent>.
+		- <daughter> is a daughter of <parent>.
+		- <son> is a son of <parent>.
+		- <uncle> is an uncle of <niece/nephew>.
+		- <aunt> is an aunt of <niece/nephew>.
+		- <person> is a female.
+		- <person> is a male.
+	- Query prompts: 
+		- Are <person 1> and <person 2> siblings?
+		- Is <person 1> a brother of <person 2>?
+		- Is <person 1> a sister of <person 2>?
+		- Is <person 1> the father of <person 2>?
+		- Is <person 1> the mother of <person 2>?
+		- Are <person 1> and <person 2> the parents of <person 3>?
+		- Is <person 1> a grandmother of <person 2>?
+		- Is <person 1> a grandfather of <person 2>?
+		- Is <person 1> a child of <person 2>?
+		- Are <person 1>, <person 2> and <person 3> children of <person 4>?
+		- Is <person 1> a daughter of <person 2>?
+		- Is <person 1> a son of <person 2>?
+		- Is <person 1> an uncle of <person 2>?
+		- Is <person 1> an aunt of <person 2>?
+		- Who are the siblings of <person>? 
+		- Who are the sisters of <person>?
+		- Who are the brothers of <person>?
+		- Who is the mother of <person>?
+		- Who is the father of <person>?
+		- Who are the parents of <person>?
+		- Who are the daughters of <person>?
+		- Who are the sons of <person>?
+		- Who are the children of <person>?
+		- Are <person 1> and <person 2> relatives?
+
+- Type in your statements with the names of the people ALWAYS starting with a capital letter.
+
+- If you are done using the Relationship Chatbot, type "e" without the quotation marks.
